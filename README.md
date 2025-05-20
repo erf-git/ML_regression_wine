@@ -1,5 +1,5 @@
 # ML_regression_wine
-Objective: using regression models to predict wine quality, exploring differences in features by type wine, and exploring differences in model coefficients by wine type. 
+Objective: using regression models from scikit-learn to predict wine quality, exploring differences in features by wine type, and exploring differences in model coefficients by wine type. 
 
 DATASET: UCI Wine (https://archive.ics.uci.edu/dataset/186/wine+quality)
 
@@ -9,5 +9,5 @@ Key Finds:
 - Red wine quality is largely determined by volatile acidity, sulphates, and alcohol content across multiple regression models.
 
 Areas for Improvement:
-- Regression models could be optimized, most models have an average mean squared error (MSE) around 50% and R^2 score around 30%. This is not good, but not the point of the project.
+- Regression models could be optimized. Most models have an average mean squared error (MSE) around 50% and an R^2 score around 30%. This is not good, but it's not the point of the project.
 
